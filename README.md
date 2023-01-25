@@ -2,8 +2,8 @@ This is my current desktop setup and skin that i use daily on my Windows 11 mach
 
 **Screenshots:**
 
-![9d89775b0ff2dacbc0aaa2f7a9391904.png](../_resources/9d89775b0ff2dacbc0aaa2f7a9391904.png)
-![e76ae6ef29d25b44b9899df60db14a3e.png](../_resources/e76ae6ef29d25b44b9899df60db14a3e.png)
+![9d89775b0ff2dacbc0aaa2f7a9391904.png](_resources/9d89775b0ff2dacbc0aaa2f7a9391904.png)
+![e76ae6ef29d25b44b9899df60db14a3e.png](_resources/e76ae6ef29d25b44b9899df60db14a3e.png)
 **Apps Used:**
 - Mica for everyone - Transparent effect on titlebars:
 - https://github.com/MicaForEveryone/MicaForEveryone
