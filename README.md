@@ -6,30 +6,30 @@ This is my current desktop setup and skin that i use daily on my Windows 11 mach
 ![e76ae6ef29d25b44b9899df60db14a3e.png](_resources/e76ae6ef29d25b44b9899df60db14a3e.png)
 **Apps Used:**
 - Mica for everyone - Transparent effect on titlebars:
-- https://github.com/MicaForEveryone/MicaForEveryone
+ https://github.com/MicaForEveryone/MicaForEveryone
 - Rounded TB - Rounded taskbar:
-- https://github.com/torchgm/RoundedTB
+ https://github.com/torchgm/RoundedTB
 - Rainmeter - System info display:
-- https://www.rainmeter.net/
+ https://www.rainmeter.net/
 - Nexus Dock Free - Dock:
-- https://www.winstep.net/nexus.asp
+ https://www.winstep.net/nexus.asp
 - UltraUXThemePatcher - For applying 3rd party themes:
-- https://mhoefs.eu/software_uxtheme.php
+ https://mhoefs.eu/software_uxtheme.php
 - Explorer Patcher - Small taskbar, Windows 10 style:
-- https://github.com/valinet/ExplorerPatcher
+ https://github.com/valinet/ExplorerPatcher
 - Win Aero Tweaker - Change system font, apply tweaks:
-- https://winaerotweaker.com/
+ https://winaerotweaker.com/
 - 7tsp - Icon changer:
-- https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422
+ https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422
 
 ### Themes/Icons/Fonts:
 
 - Main theme: Nord - by niivu:
-- https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071
+ https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071
 - Icons: Fluent Keys - by niivu:
-- https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071
+ https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071
 - Rainmeter skin: Plaintext - by JaxOriginals:
-- https://www.deviantart.com/jaxoriginals/art/Plainext-v1-8-881628513
+ https://www.deviantart.com/jaxoriginals/art/Plainext-v1-8-881628513
 
 ### To Note:
 
