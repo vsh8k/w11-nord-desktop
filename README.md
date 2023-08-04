@@ -1,6 +1,6 @@
 This is my current desktop setup and skin that i use daily on my Windows 11 machine.
 
-**Screenshots:**
+#### Screenshots:
 
 ![9d89775b0ff2dacbc0aaa2f7a9391904.png](_resources/9d89775b0ff2dacbc0aaa2f7a9391904.png)
 ![e76ae6ef29d25b44b9899df60db14a3e.png](_resources/e76ae6ef29d25b44b9899df60db14a3e.png)
@@ -22,7 +22,7 @@ This is my current desktop setup and skin that i use daily on my Windows 11 mach
 - 7tsp - Icon changer:
 - https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422
 
-**Themes/Icons/Fonts:**
+#### Themes/Icons/Fonts:
 
 - Main theme: Nord - by niivu:
 - https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071
@@ -31,7 +31,7 @@ This is my current desktop setup and skin that i use daily on my Windows 11 mach
 - Rainmeter skin: Plaintext - by JaxOriginals:
 - https://www.deviantart.com/jaxoriginals/art/Plainext-v1-8-881628513
 
-**To Note:**
+#### To Note:
 
 - Some darker skins might have problems with colors in apps like `winver` or `Control Panel`
 - 7tsp does not change all the icons, so it's best to create custom shortcuts with replaced icons.
